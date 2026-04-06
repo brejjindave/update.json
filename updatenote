@@ -1,6 +1,6 @@
 {
-  "latestVersionCode": 2,
-  "latestVersionName": "1.1.0",
+  "latestVersionCode": 3,
+  "latestVersionName": "1.6.0",
   "releaseNotes": "- Added fallback notification for client top-up\n- Added notification for already recommended actions\n- Optimized token deduction process\n- Improved relay handling (reduced redundancy and better performance)",
   "apkUrl": "https://2111.filemail.com/api/file/get?filekey=YflhkpAr3UjWdByWw6fkKFNhkx0LXMSvcSVCSFMHW0bF4YUU3EPT9-TvQTJrVxtGhaGqXbPCHSM"
 }
