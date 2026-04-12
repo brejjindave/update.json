@@ -1,6 +1,6 @@
 {
-  "latestVersionCode": 3,
-  "latestVersionName": "1.5.0",
-  "releaseNotes": "- Added fallback notification for client top-up\n- Added notification for already recommended actions\n- Optimized token deduction process\n- Improved relay handling (reduced redundancy and better performance)\n-Recharge scanner that can scan upto 10 airtime scratch cards at once \n -Improved advanced ussds \n- Engagebot on alredy recommended trancations \n-Bugs and fixes",
-  "apkUrl": "https://2020.filemail.com/api/file/get?filekey=KnL2GllXjHgCId0u9lP496YOMNX4KDXbK5P27K6Je00jvM7JoKI06K8xkDYbUnax"
+  "latestVersionCode": 4,
+  "latestVersionName": "1.6.0",
+  "releaseNotes": "- Added multi fallback and top-up indicator for topped-up offers\n- Fixed the Engage Bot\n- Improved scheduled tasks\n- Improved connection with application (IMPORTANT: before updating, if you are using Connect, ensure you have the Runtime Connect (RC) app installed)\n- Bugs and fixes",
+  "apkUrl": "https://2111.filemail.com/api/file/get?filekey=zEfQJWGSjNvrfrjKpYb-pRtc2GMXM63rjx-RfDcYALc4VSJjGJOBzjxQXIQ2Ec7v"
 }
