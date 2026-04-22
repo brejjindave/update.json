@@ -1,6 +1,6 @@
 {
-  "latestVersionCode": 4,
-  "latestVersionName": "1.6.0",
-  "releaseNotes": "- Added multi fallback and top-up indicator for topped-up offers\n- Fixed the Engage Bot\n- Improved scheduled tasks\n- Improved connection with application (IMPORTANT: before updating, if you are using Connect, ensure you have the Runtime Connect (RC) app installed)\n- Bugs and fixes",
-  "apkUrl": "https://2111.filemail.com/api/file/get?filekey=zEfQJWGSjNvrfrjKpYb-pRtc2GMXM63rjx-RfDcYALc4VSJjGJOBzjxQXIQ2Ec7v"
+  "latestVersionCode": 5,
+  "latestVersionName": "1.7.0",
+  "releaseNotes": "- Fixed fallback issues\n- Fixed light UI display issues\n- Fixed inbox scanning\n- Improved Connect Services performance\n- Improved Engage Bot transactions (now clickable)\n- Improved scheduler reliability\n- Improved app update system (next version will support in-app download and installation)\n- Improved Start/Stop button (now stops queued and incoming messages)\n- Fixed and improved SMS relay issues ",
+  "apkUrl": "https://3003.filemail.com/api/file/get?filekey=jjgRAzK434Xcn9_3DU6Sj2_7SMqyEjSAwxOFC8HAug2Vva5eSL93herY1KAtdgG26wXQTEVUkMHF2o5e"
 }
