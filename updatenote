@@ -1,6 +1,6 @@
 {
-  "latestVersionCode": 7,
-  "latestVersionName": "1.9.0",
-  "releaseNotes": "- Fixed SMS relay for masked numbers\n- Upgraded the Agent Portal: You can now view transactions in real time\n- Domain Upgrade: View transactions now on bingwasokoniagent.co.ke\n- Disable and enable update notifications\n\nIMPORTANT: For your portal to sync transactions in real time with your apps, ensure you are using the latest versions of Connect and Runtime.",
-  "apkUrl": "https://2117.filemail.com/api/file/get?filekey=o-n9xFQQYGQKTju7MbHTNn_mRdFrRT2FWZVrmkGUGGFzWW-iDGGI9TIYffDHrvwJd1xHQ1ti6eFo2tu2wQ"
+  "latestVersionCode": 8,
+  "latestVersionName": "2.0",
+  "releaseNotes": "- Fixed app crashing issues\n- Paybill fix for Paybill users\n- General bugs and fixes",
+  "apkUrl": "https://2020.filemail.com/api/file/get?filekey=HoGNvx4fPpaafduUk1Wqt8j6NATbbcTestI4sm4yvDMGy71aQpFqjbJl56aH9YT0iUNq2qTq8Yll0XVe"
 }
