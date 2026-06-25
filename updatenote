@@ -1,6 +1,6 @@
 {
-  "latestVersionCode": 9,
-  "latestVersionName": "2.1",
-  "releaseNotes": "- Online relay on the Connect application\n- Commission graph on Statistics and other features\n- Advanced USSD verification\n- Portal enhancements\n- Self advanced speed management\n- Enhanced bot timeout handling\n- Improved performance\n- Bug fixes and improvements",
-  "apkUrl": "https://3006.filemail.com/api/file/get?filekey=hdLLWvo1_r47HtyHLOZn3mES1tJCq8eAkePVL8jvjaKgPSioXmdR9n1a4hU-FY71diU98iPJxRQ"
+"latestVersionCode": 10,
+"latestVersionName": "2.2",
+"releaseNotes": "- Site link purchases for another number with direct Till/Paybill payments\n- SMS Bot support for purchasing for another number offline\n- Added Simple USSD foreground dialing option\n- Improved screen-off mode for Simple Dialer and Advanced USSD\n- Enhanced timeout selection and handling\n- Improved performance and reliability\n- Bug fixes and improvements",
+"apkUrl": "https://3003.filemail.com/api/file/get?filekey=ezr27yOWQ-o-HlZ1INc8w9aHCHv9FJNncchjeWFPgeJ2mHRY8QcQ_qniPgApkmJWOu1rk6ec9BN3"
 }
